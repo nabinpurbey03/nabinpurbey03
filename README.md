@@ -1,4 +1,4 @@
-##👋 Hi, I’m @nabinpurbey03
+## 👋 Hi, I’m @nabinpurbey03
 - 👀 I’m interested in Android Development and Web Development.
 - 🌱 I’m currently learning Computer Science and IT Mnagement.
 - 💞️ I’m looking to collaborate on Companies like Microsoft, Google, Amazon and Apple.
