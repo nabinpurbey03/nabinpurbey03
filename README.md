@@ -6,6 +6,7 @@
 - 📫 You can reach me at nabinpurbey03@hotmail.com
 
 **LinkedIn:** [Nabin Purbey](https://www.linkedin.com/in/nabin-purbey-55961a230/)
+[![linkedin-logo-png-1826](https://user-images.githubusercontent.com/112373792/225285203-04170fd8-0a01-4356-9103-099135c13fcc.png)](https://www.linkedin.com/in/nabin-purbey-55961a230/)
 
 <!---
 nabinpurbey03/nabinpurbey03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
