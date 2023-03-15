@@ -3,7 +3,7 @@
 - 👀 I’m interested in Android Development and Web Development.
 - 🌱 I’m currently learning Computer Science and IT Mnagement.
 - 💞️ I’m looking to collaborate in companies like Microsoft, Google, Amazon and Apple.
-- 📫 You can reach me at nabinpurbey03@hotmail.com
+- 📧 Email: nabinpurbey03@hotmail.com
 
 ***Connect with me:***
 
