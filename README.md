@@ -1,5 +1,5 @@
 #  **Hi 👋, I am Nabin Purbey**
-## **A student of Information Technology and Mangement**
+## **A student of Information Technology and Mangement.**
 - **👀 I’m interested in Android Development and Web Development.**
 - **🌱 I’m currently learning Computer Science and IT Mnagement.**
 - **💞️ I’m looking to collaborate in companies like Microsoft, Google, Amazon and Apple.**
