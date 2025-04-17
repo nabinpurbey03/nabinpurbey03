@@ -8,7 +8,7 @@
 
 ***Connect with me:***
 
-[![linkedin-logo-png-1826 (2)](https://user-images.githubusercontent.com/112373792/225286708-113a6b48-07eb-4818-b980-3641883259f2.png)](https://www.linkedin.com/in/nabin-purbey-55961a230/) &nbsp;
+[![linkedin-logo-png-1826 (2)](https://user-images.githubusercontent.com/112373792/225286708-113a6b48-07eb-4818-b980-3641883259f2.png)](https://www.linkedin.com/in/nabin-purbey-devops/) &nbsp;
 
 
 
